@@ -3,6 +3,7 @@
 .DS_Store
 GoogleServices-Info.plist
 node_modules
+debug.keystore
 # Xcode
 #
 build/
